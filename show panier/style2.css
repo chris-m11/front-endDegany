@@ -1,0 +1,43 @@
+#btn_1 {
+	background-color: #aa0000;
+    color:white;
+    padding:0.5rem 0.5rem;
+    margin-top:25px;
+    display:inline;
+    border:0;
+    border-radius:4px;
+    font-weight: 80;
+    text-decoration: none;
+    cursor: pointer;
+    text-align:center;
+    transition:all;
+}
+#btn_2 {
+	background-color: #005500;
+    color:white;
+    padding:0.5rem 0.5rem;
+    margin-top:25px;
+    display:inline;
+    border:0;
+    border-radius:4px;
+    font-weight: 80;
+    text-decoration: none;
+    cursor: pointer;
+    text-align:center;
+    transition:all;
+}
+#btn_0 {
+    background-color: red;
+    
+    color:white;
+    margin-top:25px;
+    display:inline;
+    border:0;
+    border-radius:60px;
+    font-weight: 80;
+    text-decoration: none;
+    cursor: pointer;
+    text-align:center;
+    transition:all;
+    margin-left:22px;
+}
